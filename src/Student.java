@@ -1,6 +1,7 @@
 public class Student {
     private int id;
-private String name;
+    private String name;
+    private String email;
 
     public Student(int id) {
         this.id = id;
