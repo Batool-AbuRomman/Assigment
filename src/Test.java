@@ -7,5 +7,8 @@ public class Test {
 
         Student s3=new Student (7891);
         s3.setName("sara");
+
+        Student s4=new Student (7891);
+        s4.setName("duha");
     }
 }
