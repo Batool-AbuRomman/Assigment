@@ -10,7 +10,7 @@ public class Student {
         this.email = email;
     }
 
-    private String email;
+
 
     public Student(int id) {
         this.id = id;
