@@ -4,5 +4,8 @@ public class Test {
         s1.setName("Asma");
     Student s2=new Student (7891);
     s2.setName("bana");
+
+        Student s3=new Student (7891);
+        s3.setName("sara");
     }
 }
