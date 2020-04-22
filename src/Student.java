@@ -1,6 +1,15 @@
 public class Student {
     private int id;
     private String name;
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
     private String email;
 
     public Student(int id) {
